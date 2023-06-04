@@ -16,25 +16,25 @@ Course Outline:
 
 ## Variables and Data Types
 
-Declaring and initializing variables
-Understanding data types: strings, numbers, booleans, arrays, and objects
-Type coercion and conversion
-Working with operators and expressions
-Control Flow and Loops:
+- Declaring and initializing variables
+- Understanding data types: strings, numbers, booleans, arrays, and objects
+- Type coercion and conversion
+- Working with operators and expressions
 
-## Conditional statements: if, else if, and else
+## Control Flow and Loops
 
-Switch statements for multi-branch logic
-Looping structures: for, while, and do-while
-Loop control statements: break and continue
-Functions:
+- Conditional statements: if, else if, and else
+- Switch statements for multi-branch logic
+- Looping structures: for, while, and do-while
+- Loop control statements: break and continue
 
-## Defining and calling functions
+## Functions
 
-Function parameters and return values
-Function expressions and arrow functions
-Understanding scope and closures
-Arrays and Objects:
+- Defining and calling functions
+- Function parameters and return values
+- Function expressions and arrow functions
+- Understanding scope and closures
+- Arrays and Objects:
 
 ## Creating and manipulating arrays
 
