@@ -7,16 +7,16 @@ This comprehensive JavaScript course is designed to provide a thorough understan
 
 Course Outline:
 
-## Introduction to JavaScript:
+## Introduction to JavaScript
 
-Understanding the role of JavaScript in web development
-Setting up a development environment
-Writing your first JavaScript code
-Overview of JavaScript syntax and conventions
-Variables and Data Types:
+- Understanding the role of JavaScript in web development
+- Setting up a development environment
+- Writing your first JavaScript code
+- Overview of JavaScript syntax and conventions
 
-## Declaring and initializing variables
+## Variables and Data Types
 
+Declaring and initializing variables
 Understanding data types: strings, numbers, booleans, arrays, and objects
 Type coercion and conversion
 Working with operators and expressions
