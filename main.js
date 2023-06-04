@@ -51,6 +51,56 @@ console.log(typeof foo);
 
 console.log(typeof numberFromString);
 
+// arithmetic & assignment
 const num1 = 1;
 const num2 = 23;
+
 console.log(num1 + num2);
+console.log(num1 * num2);
+
+let counter = 1;
+// counter = counter + 1;
+// counter += 1;
+counter++;
+
+console.log("counter", counter);
+
+// console.log(counter / "adfb");
+
+// comparison operators
+const ehsanAge = 10;
+const rasoulAge = 5;
+const resultAge = ehsanAge < rasoulAge;
+
+console.log(resultAge);
+
+const ehsanName = "Ahsan";
+const rasoulName = "B";
+const resultName = ehsanName < rasoulName;
+
+console.log("resultName", ehsanName.charCodeAt(0));
+
+let text1 = "20";
+let text2 = "5";
+let result = parseInt(text1) < parseInt(text2);
+console.log(result);
+
+const ehsanWithAge = ehsanName + " " + ehsanAge;
+console.log("ehsanWithAge", ehsanWithAge);
+
+console.log("logical operator", ehsanAge > rasoulAge || ehsanName > rasoulName);
+
+const numPrim = 2;
+const numObj = new Number(2);
+
+console.log(numPrim, numObj);
+console.log(typeof numPrim, typeof numObj);
+
+// Array object:
+const cars = ["Saab", "Volvo", "BMW"];
+console.log(cars);
+
+const x = "string";
+x = 1;
+
+// typescript
